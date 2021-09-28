@@ -1,0 +1,3 @@
+﻿Hello World From C#
+This is a demo text for admission test.
+Please do not change this text.
